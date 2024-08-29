@@ -3,4 +3,4 @@ torch
 opencv-python
 ultralytics
 numpy
-Pillo
+Pillow
